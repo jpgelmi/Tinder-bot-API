@@ -1,0 +1,1 @@
+mongodb+srv://tinder_bot:YTKSffef#sWEkn5>@cluster0.sp4nf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
